@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 I'm Rushita, a passionate and goal-driven developer.<br><br>🎓 Pursuing B.Tech[Final Year] at ADCET College, Ashta.<br><br>💻 Interested in Frontend Development and Full-Stack Web Development.<br><br>🔍 Actively seeking internship or entry-level opportunities in software development.<br><br>🧠 Strong in problem-solving, currently improving skills in Data Structures & Algorithms.<br><br>🚀 Experienced in building responsive and user-friendly web applications.<br><br>🤝 Open to collaboration, internships, and networking opportunities.<br><br>📫 Reach me at: kolekarrushita@gmail.com | www.linkedin.com/in/rushitakolekar
+<br>👋 I'm Rushita, a passionate and goal-driven developer.<br><br>🎓 B.Tech (2022-2025) | ADCET College, Ashta<br><br>💻 Interested in Frontend Development and Full-Stack Web Development.<br><br>🔍 Actively seeking internship or entry-level opportunities in software development.<br><br>🧠 Strong in problem-solving, currently improving skills in Data Structures & Algorithms.<br><br>🚀 Experienced in building responsive and user-friendly web applications.<br><br>🤝 Open to collaboration, internships, and networking opportunities.<br><br>📫 Reach me at: kolekarrushita@gmail.com | www.linkedin.com/in/rushitakolekar
 
 
 ## 🌐 Socials:
